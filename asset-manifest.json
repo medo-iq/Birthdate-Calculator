@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Birthdate-Calculator/static/css/main.2d5304f8.css",
+    "main.js": "/Birthdate-Calculator/static/js/main.a0d2e04e.js",
+    "static/js/787.6b5788ec.chunk.js": "/Birthdate-Calculator/static/js/787.6b5788ec.chunk.js",
+    "index.html": "/Birthdate-Calculator/index.html",
+    "main.2d5304f8.css.map": "/Birthdate-Calculator/static/css/main.2d5304f8.css.map",
+    "main.a0d2e04e.js.map": "/Birthdate-Calculator/static/js/main.a0d2e04e.js.map",
+    "787.6b5788ec.chunk.js.map": "/Birthdate-Calculator/static/js/787.6b5788ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d5304f8.css",
+    "static/js/main.a0d2e04e.js"
+  ]
+}
